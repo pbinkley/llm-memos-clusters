@@ -1,0 +1,406 @@
+
+
+MEMORANDUM ON MICROPHOTOGRAPHY
+
+I. INTRODUCTION
+
+Microphotography is not an end in itself but a means to
+an end; ample library resources are not ends in themselves
+but means to an end; the same is true of the free flow of do~
+cumentation. The end that all these things have as their com~
+mon object is that scholars may read what they went to read
+when they want to read it, and may communicate to each other
+what they want to write when they choose to write it.
+
+Just where does microphotography fit into this picture?
+It is one of a number of mechanical techniques supplementary
+to printing (including non—edition, full-size publication by
+blueprint, photostat, Ozalid, etc.; large edition microprint;
+and small edition near-print). The essential problem is to
+fit all the techniques together in the larger pattern.
+
+In this larger pattern microphotography has three kinds
+of use: (1) To increase the efficiency with which individual
+scholars collect their own material; (2) To increase the ef~
+ficiency with which libraries and other institutions concerned
+with documentation provide scholars with documents; and (3)
+To reduce the cost incurred in communicating the results of
+scholarly labor among scholars. In the development of the first
+function (individual scholars' use), attention should be given
+to the minimum training necessary for the scholar to use the
+camera just as he uses the typewriter. The second use (insti~
+tutional function) can be divided into (a) preservation of
+material otherwise subject to destruction because of imperman~
+once of paper or lack of storage space, (b) rational collec~
+tion of material free from the capricious effects of market
+accidents, and (c) complete mobility of material by selling
+film copies instead of lending books in some cases, and by the
+lending of the film itself in other cases. Preservation is
+most clearly at issue in the case of American newspaper files
+and business archives. The rational collecting of material
+is a problem that is most comprehensively framed as the prob~
+lem of making and filling a national want list of materials
+for research from all over the world. The motility of material
+turns at present on the maintenance of film services for short-
+run copying at minimal costs, the development of film lending
+practices for long-run copies, and the careful watching of the
+copyright law and of relation of practice to the copyright law.
+
+Within this larger pattern there are two other elements
+not strictly mechanical: the union catalogue or finding list
+by which a searcher[?] can quickly locate the document he wants
+when he wants it; and the bibliography by which the scho~
+lar can discover the answers to the questions which determine
+the use of his time -- what he shall read and what he shall not
+read. The mechanical techniques and the locational catalogues
+and bibliographies should be systematically inter-related.
+
+Microphotography is then a part of a field of mechanical
+techniques which is in turn a part of a wider field of tech~
+niques for rendering documents accessible to scholars, and in
+all three of the uses outlined above distinction must be made
+between developments that can be expected to take care of them~
+selves and developments that ought to be guided, stimulated,
+or headed off.
+
+II. COLLECTION OF MATERIAL BY THE INDIVIDUAL SCHOLAR:
+
+Just as the last generation of scholars learned to take
+portable typewriters into the libraries, so the next generation
+of scholars will probably take portable cameras. It is evident
+that we know very little about what this portable camera will
+be. The questions of roll or sheet microfilm and of reduction
+ratio are unsolved. Their solution is related to the question
+of how much training a scholar requires in order to do useful
+photographing at a low or high reduction ratio. Again, the
+photographic technique must lend itself to suitable filing.
+Probably no organization working in this field has adequately
+taken into account the difference between the individual scholar
+problem and the problem of institutional and professional use
+for scholars. In the case of the individual scholar, low cost
+apparatus -- both for photographing and for reading -- is more
+important than in the case of the institution. The cost situ~
+ation is entirely different because the scholar does his own
+selecting of material to be copied and costs are principally
+limited to materials and processing. The reduction ratio prob~
+lem is different because the amount of reduction ratio that is
+feasible is probably limited more by the training and skill
+of the scholar than the character of the apparatus or the
+quality of the photographic surface. So it would seem that the
+first thing we need is a better idea of the amount of photogra~
+phic skill on the part of the individual scholar that ought
+to be taken for granted in the development of apparatus and
+practices and the process of training necessary to impart this
+skill in minimum time. Keyed to this level of skill the cheap~
+est possible scholar's camera should be designed. The Photo~
+record is too elaborate and expensive; the Leica, Argus, Kodak
+Retina[?], etc. are adaptations. Possibily a miniature Photostat
+would be better than a film unit.
+
+III. IMPROVEMENT OF INSTITUTIONAL SERVICES:
+
+1. Technical and cost studies:
+
+Because institutions can invest in more expensive equip~
+ment than individual scholars and can hire professional person~
+nel, they need more refined technical standards than the indi~
+vidual scholar, and the planning and pricing of their services
+require more genuine cost information than we now possess.
+Three studies are necessary:
+
+(a) The completion of the work that has been promoted at
+the Bureau of Standards under the direction of the Advisory
+Committee to the BS on the Reproduction of Records. The need
+for this work of quality standardization is emphasized in Ben~
+nett's report on sheet microfilm. Micro-copying needs its units
+of measurement -- its "micropoints" -- to measure letter sizes
+and some suitable units to measure the different characteris~
+tics of faithful and legible reproduction. When such fundamen~
+tal work is accomplished it will be easier to compare techniques
+and materials (film, paper, diazo, microprint, etc.) and to plan
+projects and estimate mechanical costs. In the meantime one
+of the dangers in the field is premature standardization on
+a certain medium or of reduction ratio.
+
+(a) The second cost study has been requested several times
+of ADI but has never really been done. It is a careful time
+and motion accounting of the costs of microphotography under
+library conditions covering all types of work -- from short-run
+articles from scientific periodicals to long-run, high-reduc~
+tion ratio jobs. These cost studies should be so carefully
+done that it will be possible to compute costs based on full
+utilization of man-power and equipment and to use the data in
+establishing sound rate structures.
+
+(c) The third type of study is one for which we are not
+yet ready but that will become necessary as the meaning of an
+inter-library system becomes more clear to the librarians of
+the country. This is a study of costs of library service which
+would include the cost of the unused book as a part of the cost
+of providing the reader with the book he uses. Library collec~
+tiona above a certain magnitude include an increasing propor~
+tion of books that are not consulted but which properly belong
+in the library because it is impossible to predict whether they
+will be consulted or not. On the basis of this study librarians
+might discover more effective ways of leaning upon each other
+for the book contingently needed. To illustrate: What would
+be the value to Widner Library of a catalogue of the New York
+Public Library or of a union catalogue of all the libraries in
+the country? If Widner Library were to regard these other li~
+brary holdings as contingently a part of its own collection
+with each item capable of being summoned for use when desired,
+the value of these catalogues would be infinitely greater than
+if the library would regard them merely as a source of bib~
+liographical information.
+
+If these studies should prove that there are classes of
+books whose cost per use is 10, 20, or 100 times the cost of
+acquisition and administration, then library accounting would
+come increasingly to rely on the inter-library system for this
+type of book. It has been a great misfortune that the prob~
+lem of inter-library relations has been so frequently stated
+as if its essence were a matter of good will or cooperative
+spirit or ethiCs. That which is needed is an analysis of li~
+brary functions and costs which will point to the line that
+distinguishes the responsibilities of separate libraries from
+the responsibilities of the library system of the country.
+A preliminary study of this type ought to be made of the use
+of newspaper files, particularly of American newspaper files,
+because it is impossible for any library to have them all and
+it is probable that inter-library lending of film copies of
+newspaper files will have a large place in library administra~
+tion. These studies may result in a diversion of library in~
+come so that libraries will spend less in purchasing the little-
+used materials that are already available in other libraries
+and more in bringing copies of books actually needed to their
+users when the books are needed. Such a diversion of library
+income would tend, first, to render the national book resources
+of the country more comprehensive, and, second to increase the
+proportion of library money spent for photo-duplication on
+request.
+
+2. Preservation:
+
+One large function of film copying is the preservation
+of materials that otherwise must be lost either because they
+are printed on inpermanent paper (newspapers) or because stor~
+age space is inadequate to keep them in their original form
+(business archives). The investment necessary to preserve
+Americen newspaper files far exceeds anything that can reason~
+ably be expected from Foundation grants or even the expenditures
+of the larger American libraries. Particularly futile would
+be any venture which made an effort to save these American news~
+paper file by filming than with the expectation of recouping
+costs of filming from sales of the film cepies to libraries.
+Probably the only source of income adequate to save these news~
+paper files will have to come from the localities involved,
+through their own library agencies or their newspapers. It
+could be much in the national interest if the practice of lend~
+ing film copies of these files could be established. This applies
+particularly to the bulkly files of the late 19th and early
+20th centuries. A grant from Rockefeller Foundation was given
+to ADI to do a sample job in Ohio, where a WPA project to film
+and index newspapers was under way. The use of this money has
+come up to expectation insofar as it is actually furnishing a
+
+lending copy of the film, to be administered through the Ohio
+State Archaeological and Historical Society, but it has been
+disappointing that the ADI did not succeed in using the grant
+to discover ways of stimulating local interest in the preser~
+vation of local files.
+
+It will lead to mistakes of policy if the function of
+preserving what otherwise will disintegrate or be destroyed
+is confused with the function of rounding out rational collec~
+tions of materials. Where preservation is the object, the num~
+ber of film copies made should be very few since the cost of
+making extra film copies diverts resources from the preservation
+of other items; where the rounding out of collections is the
+object, the number of copies to be made depends entirely upon
+the specific case.
+
+3. Making of Rational Collections:
+
+Micro—copying permits libraries to round out their col~
+lections regardless of the accident of the market, and to do
+this at moderate cost. No book need be regarded as out of print.
+The very magnitude of this opportunity points to its dangers
+and difficulties and raises the question already touched upon
+of how far our library system is to be regarded as a national
+unit and how far each library is to be on its own. Conceiving
+the library system of the country as a national unit, a unit
+which spends over two milliOn dollars a year to import books
+from abroad, it is not unreasonable to plan for the day when a
+copy, photographic or otherwise, of every worthwhile book in
+the world will be housed in some American library. Meanwhile
+there are many cases where due to the accident of the market
+fundamental reference sets that ought to be available in a num~
+ber of libraries are actually available in very few. To round
+out the total national resources of the country by using micro-
+photography requires a national want list and a union catalogue,
+and these must come. They are as much a part of the new picture
+presented by the new techniques as are the cameras and reading
+machines themselves. In the expansion of our national resources
+of books, it would probably be wise to work for the minimum
+number of copies, as in the case of American newspapers.
+
+There are cases, however, in which n number of libraries
+seems to have the same need for some fundamental body of mater~
+ial, and the question arises whether in those cases filming
+projects should be sponsored in the expectations that the costs
+of filming will be returned from sale of the film copies.
+Without deciding on any particular case the following principles
+seem to apply:
+
+(a) Wherever a body of consumers is willing to pledge in
+advance the funds necessary for a micro-copying project with
+costs pro-rated among the subscribers, the job should be done,
+though in many cases private capital will do the work.
+
+(b) If the costs of manufacturing the negative film are
+predictable with reasonable accuracy and the quality of the film
+can be described in suitable units of measurement advance sub~
+scriptions including the pro-rating of the costs of the negative
+should be obtained before the film is made, and no subsidy
+should be necessary unless as a simple revolving fund which could
+be guaranteed not to be dissipated. There is no reason for
+introducing into filming projects the type of risk-taking sub~
+sidy which has marked publication investment in the past.
+
+        Foundation activity in providing large sets of materials for
+      
+
+        a number of institutions should be aimed at helping the consum~
+      
+
+        ers to organize to supply their needs, not at the subsidizing
+      
+
+        of producers who will promote their wares among the consumers.
+Above all we should not be misled at this point by the concep~
+tion that there is any special merit in the shear quantity of
+microfilm produced. The quantities will take care of themselves
+when the right equivalent is established in the functioning of
+our libraries. This should remind us that if we are to look
+forward to the lending of long runs of film we ought not to cre~
+ate unnecessary purchaser interests which would militate against
+the development of lending.
+
+4. Motility of Materials:
+
+The most important improvement in library services will
+arise from the tremendously increased motility of all materials
+for research. This development in a sense includes all the
+others. It has already been touched upon in connection with
+the need for film lending and with the possibility of drawing
+from abroad books not in America, and the need for an analysis
+of costs to libraries of maintaining unused or little-used books
+on their shelves. Full motility of materials is a pre-condi~
+tion of the development of a national library system: it pre~
+supposes a union catalogue in book form available in every li~
+brary. Even our bibliographical techniques may have to be modi~
+fied.
+
+The full mobility of materials is at the present moment
+most nearly realised in the case of that literature which al~
+ready has its union catalogue in book form and its special type
+of bibliography, and this the literature of the natural sciences.
+Locations of natural science periodicals are known in any library
+in the country from the union list of periodicals, and the
+bibliographical control of the articles in these periodicals
+through Chemical and Biological Abstracts is far more complete
+
+and comprehensive than is normal in the social science or hu~
+manities. For this reason it was to be expectod that the na~
+tural scientists would be first to appreciate the full meaning
+of the motility of material and first to run into some of the
+difficulties in realizing the potentialities of microfilm.
+As fast as library resources pertinent to othar fields are union
+catalogued nnd bibliographies in other fields are brought to
+the level of current scientific bibliography, the problems and
+opportunities confronting the natural sciences will spread to
+the other fields. And this will come to an issue in the option
+between current purchase of material on paper and reliance upon
+filming if and when a copy is needed.
+
+At this point is becomes necessary to work out very care~
+fully the relation of film copying practices to literary pro~
+perty and the copyright law. Probably everything that can be
+done is being done to keep this situation in hand -- there is
+the gentlemen's agreement of 1935, the able legal assistance
+of Mr. Manning of the firm of Root, Clark, Buckner and Ballan~
+tine, the participation in the sessions on the revision of the
+copyright law; and yet we may have fumbled a little psycholo~
+gically in promoting film copying of complete journal files
+without adequate realization of the psychological consequences
+and of the bearing the enterprise might have on the special re~
+lations of American libraries with certain German publishing
+firms. There may be something in the project of Mathematical
+Abstracts to cause a similar concern, but in this case it might
+be possible to work out an example of using film to expand the
+range of learned journals.
+
+Another problem connected with the motility of material
+is the number and location of first-class film photographic
+units and the cost levels at which they operate. We cannot
+expect to have a high efficiency filming unit in every library;
+on the other hand if we have a really national library system
+our union catalogue will note unique holdings of every library
+whether it happens to be a film center or not, and in such cases
+nothing is simpler than to combine lending and filming. Let
+a small library near Chicago send its book to Chicago to be filmed
+and let the film be sent to tho purchaser. This would mean
+that there would be film installations within over-night mail
+of every place in the country and there location is again re~
+lated to the problem of union cataloguing because we still do
+not know whether we want to have regional union catalogues or
+not.
+
+IV. REDUCTION OF COSTS OF COMMUNICATION:
+
+The third major role of microfilm is to reduce the cost
+of communicating the results of scholarly labor among scholars.
+If every book and manuscript in a library is available to an
+
+‘ i f s 4 oe
+’ ay Fe oO a
+ptghey we a ‘oy » ee
+, ak oe af Hes a ogy Fe hey ok Poa
+seep Pe vo
+/ - , 4 vier
+? é wet ‘ ety ”
+’ foe * be, fF ms Fe tm
++ ‘ f- , 0
+ae y ¥ of wh og
+
+a . tr
+rf
+aghast Of f SO8 wa Pt
+
+’ . foe te + hip
+f- . ob fe fi. fone neem
+Hoe Hy , 7 , 4 sa wn
+‘ s ' f for ee wre
+f “ fo: . pone
+. af “fy ’ / tee ae
+. é ete? ’ : * f : oe ’ te etite
+} ¢ a ’ foe a ole
+é  , ge ’ t ’ t tte ge A tee
+. e y ‘ , ¢ oo %
+o- 4 of Soy gee
+, .! Fo Wy roost poh nn ee
+: i A y boy soee g
+' ¢ : a tek meg
+/ . , POT OM phe the
+
+* . . ’ tye gS OS ay tame
+pF Be Bg Fg cg BES) ee te ahd heh
+
+ent + ona
+
+Praag
+
+yorrm i» “ea
+
+
+

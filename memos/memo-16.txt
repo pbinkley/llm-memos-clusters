@@ -1,0 +1,157 @@
+
+
+
+        February 5, 1938
+      
+
+
+        
+          
+        
+      
+
+1. A newspaper index must give enough information about each
+item indexed to permit the consultant to decide whether or not he wants to
+go to the file. The information given must be an absolute minimum for
+purpose.
+
+2. Since the consultant is assumed to use the file whenever
+he uses the index, provisions for immediate or ultimate micro-copying of
+the file should be a part of the plan.
+
+3. The procedure used in making the New York Times Index cannot
+be followed in W.P.A. Their procedure involves the use of several copies
+of the newspaper, which are marked for indexing and are distributed among
+specialists who are highly skilled in making index entries for different
+classes of news. In W.P.A. we have only one file; we cannot mark it;
+we must obtain accuracy without turning over the pages too often, as we
+cannot run through it again and again with successive specialists. Our
+procedure must therefore be adapted to circumstances.
+
+4. The first decision to be made in an index is what classes of
+items are to be indexed and what ones are to be excluded. Analysis of
+the Cleveland newspapers has indicated that with fair consistency over 60%
+of a newspaper is advertising: about 8% is state news; about 3% foreign
+news; and a little over 10% is local news. These proportions, constant
+for the later nineteenth century, may shift somewhat in the more recent
+period.
+
+The New York Times Index devotes half its space to marriage and
+death notices. This is a much larger proportion of the Index than these
+notices occupy in the newspaper itself, but the Times finds that a great
+many of their inquiries turn on this information. One major policy deci~
+sion that must be made is whether to attempt to carry under the general
+classification of "Death" all death notices, and under "Marriage" all
+marriage notices, classifying them under both the name of bride and groom.
+
+A sweeping decision might well eliminate all advertising, unless
+an exception is made for some particuler class of advertising, or the
+advertising is indexed by name of advertiser for, say, two days a year,-
+January 1 and July 1. Thie procedure might be advisable for any year in
+which there is no directory of business firms available.
+
+5. National news as news ought not to be covered. The feature 
+columns, as they become important in the more recent period, will give
+      
+rise to difficult decisions. Syndicated feature columns perhaps should
+      
+be treated differently, from feature columns written for the locality only. 
+
+All local news and all editorials, on whatever subject, should
+      
+certainly be taken. The editorials can be identified with the symbol . 
+There ie a strong argument for including out-of-town local news, especially 
+that which comes from the state or from the West.
+
+Another big problem is lists of names. The indexers have no
+way of distinguishing in an isolated case between an important name and an
+unimportant name, but neither can they list and alphabetize the names of
+all the members of all the committees that participated in organizing the
+Elks' picnic. Some arbitrary rule will be necessary. Possibly something
+like this will work: take no more than five names per column of story,
+and on short stories no more than one name per inch of column. We made
+an experiment in Cleveland in taking every proper name mentioned and found
+the result was overwhelming, The main thing is that enforcible rules
+must be laid down as to what is to be indexed and what is not to be indexed.
+
+6. When it has been decided what parts of the file are to be
+indexed, accuracy and uniformity of treatment must be guaranteed. How is
+this to be done? The work might be organized in two steps: (a) The work~
+er who has the newspaper before him must write on a slip of paper for every
+story the who, where, what of the atory, very briefly and including all
+indexable proper names. The procedure for this was well worked out in the
+Cleveland Newspaper Digest project and could be followed here, except
+that the Cleveland project included a procedure for taking quotations which
+would not be followed here in indexing. (b) The reference line must be
+checked by someone who takes the slips produced by a worker in one day
+and checks them for consistency, accuracy and fullness. The accuracy of
+the worker's abstract must be checked by a sampling process. The worker's
+abstract and reference line should occupy the lower two-thirds of the slip;
+the upper one-third should be left free for the indexer.
+
+These slips, as they are completed by the person working with
+the newspaper file and checked for accuracy, should pass into the hands
+of on indexing department, where the index must be normalized. At this
+second stage, the indexer, working with the slips of paper, must do three
+things: (a) decide upon a subject classification; (b) write the brief
+entry which will actually appear in the index, writing it in the style of
+the Times Index; (c) underline in colored pencil the proper names that are
+to be carricd in the index. It is at this stage that the index is made or
+lost; it is here that the standard of uniformity and consistency in the
+treatment of topical heads must be enforced.
+
+Needless to say, an approved list of subject heads must de used.
+Old volumes of the Times Index can provide some of these, and the results
+of the work of the Cleveland Newspaper Digest can be made available. No
+subject entry can be invented on the spur of the moment by someone who
+does not have the responsibility for relating that subject entry to all
+other subject entries.
+
+7. The next stage is a clerical one that requires accuracy but
+
+        less knowledge. The slip, 
+        
+      
+
+        the indexer, has become a 
+        parate slips must be made
+for each proper name entry that has been approved by the indexer, for the 
+final product will alphabetize in one alphabet proper names and subject
+entries.
+
+8. When the clerks have made the additional slips, each of which
+must carry not only the proper names but the reference line and the short
+description entry, the alphabetical filing must take place. The proper
+name cards should all be filed first, while the subject cards are gathered
+in a separate alphabet. Then a final review of the subject cards thus
+filed alphabetically should be made, in the course of which general cross
+references will be filled in, as "Transportation, see also Railroads,"
+or "Petroleum, see Oil," "Verses, see Poetry," etc. Someone who understands
+cross reference work must organize this part of the index.
+
+9. When the subject index with its cross reference slips and the
+proper name slips stands in two complete alphabets, it can be interfiled
+and the index is ready for typing.
+
+10. The last stage is the typing and proofreading. If the pro~
+ject permits it, it is probably desirable to mimeograph or otherwise mul~
+tiply the index. But if this cannot be provided for, at least a first
+copy and two good carbons should be made, with a strong black ribbon, con~
+stantly fresh, being used on the first copy. The first copy can then be
+micro-copied, so that anyone obtaining a copy of the original newspaper
+file on film can also obtain a copy of the index on film. The three paper
+copies can be bound.
+
+Unless the index is finally carried to typescript pages, it
+will be difficult to control the quality and accuracy of the work. Faults
+will show up very quickly on pages which would bury themselves if the index
+were left on cards.
+
+
+11. In training the personnel that is to make the entries from
+the workers' abstracts, some extra copies of the Cleveland Newspaper Di~
+gest could be used. This would give the workers an idea of condensation
+and the system of subject entries. They would have to reduce every item
+to the four-to-six words that constitute a Times Index entry.
+
+

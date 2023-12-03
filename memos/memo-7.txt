@@ -1,0 +1,193 @@
+
+
+MEMORANDUM ON DEVELOPMENT OF APPARATUS IN MICROCOPYING
+
+December 16, 1935
+
+Conferences held in Washington, December 11 and 12 vy various
+persons interested in the development of micro-copying resulted in
+the following tentative proposals herewith circulated for review,
+and approved on behalf of the Joint Committee on Materials for
+Research by the Chairman and Executive Secretary.
+
+I
+
+Dr. Watson Davis of Science Service has kindly undertaken to
+circulate memoranda and information on micro-copying to persons
+interested in the development of the process. This memorandum and
+others will therefore be cleared through him.
+
+II
+
+The most difficult problem now confronting thie nascent in~
+dustry is that of design of projectors. The essentials are that
+the projectors to be designed and put on the market shall be adapted
+as much as may be technically possible to the reading of micro~
+copies that may originate from all possible sources.
+
+III
+
+There are three media of micro-copying, to be considered:
+paper, 35mm. film and 16mm. film. Since the use of paper does not
+involve the need for a projector, it can be considered separately,
+but the great convenience in filing paper micro-copies as compared
+with film, and the relative cheapness of paper as against film,
+indicate that paper must not be ignored in the micro-copying problem.
+Dr. Bendikson of the Huntington Library, Dr. Dallas Irvine of the
+National Archives, and the Folmer Graflex Corporation in the develop~
+ment of their new copying camera are among those who have most care~
+fully thought out the possibilities of micro-copying on paper.
+
+IV
+
+Related to the distinction between the 16mm. and the 35mm.
+film, but not identical with the problem of the choice of film
+width, is the problem of reduction ratio on film for projection.
+
+
+
+The International Filmbook Corporation and the Recordak Corporation 
+and the Recordak newspaper copying enterprises contemplate the use 
+of 35mm. film with a high reduction retio (16 to 23 diameters, or 
+over). Such high reduction ratios are also to be used on 16mm. film.
+Lower reduction ratios are developed by users of the Leica camera
+and by the Biblio Film Service of the Department of Agriculture, 
+which uses the Draeger camera, especially in connection with the 
+micro-copying of short items. Any reading equipment can easily be 
+equipped with reel-holding devices that will take either 16mm or
+35mm. film, and it should be a rule that designers are not encouraged
+to develop apparatus that will not permit the use of either width of 
+film. In connection with he problem of enlargement ratio, a differ~
+ent situation exists. 
+
+V
+
+Projecting equipment, granted that it is adapted to both 16mm.
+and 35mm. film, will vary in the following essential particulars:
+
+a. It may be fixed focus or variable focus. The Recordak
+equipment has a fixed enlarging ratio of 22 diameters.
+The projective Folmer Graflex equipment will have a varying
+enlargement ratio that can be set at will. Each of these
+methods has its advantages and disadvantages.
+
+b. Some reading equipment throws the imege on a screen from
+which it 1s reflected back to the eye; other equipment
+throws the image through a semi-translucent screen. The
+Recordak and Folmer Graflex will be of the first type. The
+translucent reading machines will be the International
+Filmbook apparatus, the Draeger projection reader, possibly
+the machine put on sale by the Leitz Company, and possibly
+the machine to be developed by the Spencer Lens Company.
+
+c. Reading machines differ in the size of aperture; that is to
+say, in the amount of film they will enlarge for reading
+at one time. The Leica projector takes a double frame of
+35mm. film, 1" x 1½". The aperture of the Spencer Lens
+Company projector now contemplated will be a single frame,
+¾" x 1"; that of the Recordak is one-quarter of a frame;
+and that of the International Filmbook Corporation may be
+even less. In general, there is a relationship between
+size of aperture and enlargement power, because if the
+aperture is only one-quarter of a frame it will not permit
+the reading of lines of print that have been micro-copied
+to extend across the full width of 35mm. film.
+
+VI
+
+Material that has been micro-copied on 16mm. film at a high
+reduction ratio can be printed off on 35mm. film at a lower reduction
+ratio; material that has been micro-copied on 25mm. film at a low
+
+
+
+reduction ratio can be copied off on 16mm. film at a high reduction
+ratio. This fact is of vital importanoe because it permits the
+purchaser of a low power projecting apparatus to order copies of
+any long run of 16mm. high reduction film (as the NRA and AAA
+records) in a form that he can read. Conversely, the purchaser of 
+a small aperture, high reduction ratio projector can utilize mater~
+ial that was originally copied with a low reduction ratio on 35mm.
+film, if he has it printed off on the reduced size.
+
+VII
+
+Taking into account the foregoing facts and possibilities, it 
+would appear that the following developments in projection apparatus
+can be integrated into a common system and so arranged that the
+products of any micro-copying enterprise could be made available
+to the projectors of any apparatus, with a few exceptions that will
+be noted:
+
+a. Double frame aperture, low enlarging pwwer -- Leica
+(now available but costly).
+
+b. Single frame aperture, fixed focus, 14 diameter
+enlarging power, reading by transmitted light --
+under development by Dr. Draeger.
+
+c. One-half frame aperture, 22 diameter enlarging
+power, fixed focus, reading by reflected light --
+Recordak apparatus.
+
+d. Vartiable aperture, variable enlarging power, reading
+by reflected light -- Folmer Graflex machine.
+
+e. One-quarter frame aperture, very high enlarging power,
+fixed focus, transmitted light -- International
+Filmbook Corporation development.
+
+VIII
+
+Large-scale copying enterprises, such as the proposed micro-
+copying of books published prior to 1640, can be made on either
+35mm. or 16mm. film, either at a high reduction ratio (as 16, 20, 23)
+or a low reduction ratio (as 9 to 14 diameters). If the master copy
+is made in a low reduction ratio, the possessors of Recordak or
+International Filmbook apparatus would merely purchase their film in
+a reduction on 16mm. film. If the original is made at a high re~
+duction ratio on 16mm. film, the possessors of the Draeger, Leica,
+and presumably Folmer Graflex apparatus would purchase it in the
+enlarged form on 25mm. film. The newspaper material now being
+by the Recordak Corporation in a reduction of 16 diameters can be
+read presumably on any one of four reading machines: the Draeger
+
+
+projector will enlarge it back 14 diameters, at some loss of legi~
+bility, but it will show the full width of the newspaper page; the
+Recordak projector will show only one-quarter of a page, but enlarge
+it above original size; the International Filmbook machines will
+presumably show less than one-quarter of the area of the newspaper
+page, but may give it even more enlargement than the Recordak;
+Folder Graflex can presumably be adapted to the reading of this
+type of film. Micro-copies produced like the NRA and AAA series can
+be read presumably directly and without change on the Recordak
+International Filmbook and Folmer Graflex equipment. For reading 
+on the Draeger, Leica and Spencer Lens projectors, they would be 
+reproduced for the purchaser in 35mm. width, making the reduction
+equivalent to 11½ diameters rather than 23 diameters. The short
+strips of film now being distributed by the Biblio Film Service in
+reductions of 9 or 10 diameters can presumably be read on all 
+projection apparatus except that of the International Filmbook
+Corporation, and doubtless if special instructions are given for
+the filming of such strips by the Blblio Film Service they can be
+adapted even to the International Filmbook projector.
+
+IX
+
+
+Conclusion: it is submitted that this array of equipment will
+provide for the reading of any film now being used, or likely to be
+used, with present techniques, except such copies made at very high
+reduction on multiple exposure on 35mm. film. Such copies would
+be legible only in the Recordak and International Filmbook apparatus.
+
+The recipients of this memorandum are invited to communicate
+their views upon it to Dr. Watson Davis of Science Service and Dr.
+Robert C. Binkley, Chairman of the Joint Committee on Materials
+for Research. Those who are especially interested in the possi~
+bilities of micro-copying on paper are invited to write also to
+Dr. Dallas Irvine at the National Archives.
+
+
+

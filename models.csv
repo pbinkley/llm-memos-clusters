@@ -1,0 +1,16 @@
+model,name,parameters,download,ram,real,user,sys
+all-MiniLM-L6-v2-f16,SBert,,43.76MB,1GB,0m4.374s,0m3.975s,0m1.388s
+replit-code-v1_5-3b-q4_0,Replit,3b,1.74GB,4GB,4m58.315s,18m13.508s,0m3.862s
+orca-mini-3b-gguf2-q4_0,Mini Orca (Small),3b,1.84GB,4GB,4m20.919s,15m43.316s,0m4.106s
+mpt-7b-chat-merges-q4_0,MPT Chat,,3.54GB,8GB,4m3.871s,14m2.356s,0m6.747s
+orca-2-7b,Orca 2 (Medium),7b,3.56GB,8GB,9m37.810s,36m7.781s,0m6.859s
+rift-coder-v0-7b-q4_0,Rift coder,7b,3.56GB,8GB,8m16.677s,30m27.901s,0m6.688s
+em_german_mistral_v01,EM German Mistral,,3.83GB,8GB,9m32.677s,35m44.772s,0m5.866s
+mistral-7b-instruct-v0,Mistral Instruct,7b,3.83GB,8GB,5m39.175s,20m14.696s,0m6.113s
+mistral-7b-openorca,Mistral OpenOrca,7b,3.83GB,8GB,11m37.955s,43m46.608s,0m6.451s
+gpt4all-falcon-q4_0,GPT4All Falcon,,3.92GB,8GB,7m7.428s,25m44.251s,0m5.793s
+gpt4all-13b-snoozy-q4_0,Snoozy,13b,6.86GB,16GB,14m24.689s,48m57.886s,0m11.949s
+wizardlm-13b-v1,Wizard v1.2,13b,6.86GB,16GB,18m31.568s,69m55.606s,0m11.326s
+orca-2-13b,Orca 2 (Full),13b,6.86GB,16GB,17m48.921s,67m9.129s,0m11.371s
+nous-hermes-llama2-13b,Hermes,13b,6.86GB,16GB,15m5.772s,55m59.308s,0m11.927s
+starcoder-q4_0,Starcoder,,8.37GB,4GB,22m35.449s,76m1.846s,0m14.052s
